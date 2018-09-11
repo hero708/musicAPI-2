@@ -28,6 +28,8 @@ def main():
             kw_process()
         if user_cmd == '3':
             qq_process()
+        if user_cmd == '4':
+            exit()
         else:
             print('老老实实选择正确的序号吧......')
             user_cmd = select_input()
