@@ -28,6 +28,6 @@
 python music.py
 ```
 
-![music](/Users/mf/Documents/Mywork/Py/music_api/img/music.png)
+![music](/img/music.png)
 
 按照命令后提示一步一步操作即可.
