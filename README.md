@@ -2,7 +2,7 @@
 
 ## 1. info
 
-@author：买峰
+@author：maifeng
 
 @time：2018-6-18
 
