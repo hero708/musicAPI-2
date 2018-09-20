@@ -15,9 +15,9 @@
 @请大家多多关注,觉得有用的可以给个赞.
 
 ## 2. 说明
-1.没有ui界面，只有命令后模式，应该算是小demo
-2.若是有bug，感谢及时反馈，🙏大家
-3.若是打包，可以用[pyinstaller](https://github.com/pyinstaller/pyinstaller)和[cx_freeze](https://github.com/pyinstaller/pyinstaller)
+1. 没有ui界面，只有命令后模式，应该算是小demo
+2. 若是有bug，感谢及时反馈，🙏大家
+3. 若是打包，可以用[pyinstaller](https://github.com/pyinstaller/pyinstaller)和[cx_freeze](https://github.com/pyinstaller/pyinstaller)
 ## 3. 使用
 
 根目录下执行
